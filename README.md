@@ -1,1 +1,3 @@
 # AR-ray0-1_Nagero_Anita
+// sfidas esercizio: lista di numeri: x calcolare la media aritmetica, oltre che al valore medio, e devo identificare tutti elementi che nella sequenza mi risultano inferiori a quella soglia. Creare in + una variante + complessa: che mi determina in quantità di frequenza, in cui i valori sono posizionati rispetto al mio dato N; se sono al di sotto od al di sopra. (della media calcolata)
+manipolazione di array e gestione di logica condizionale nel codice.
